@@ -5,7 +5,7 @@ PCB for (another) Coron DS8 Clone. All ICs and passives are 0603 SMD apart from 
 All hardware is PCB mount. 
 Fuck off board wiring. 
 
-BOM is exported with the CAM output inside the eagle project.
+
 
 WARNING
 This is currently an unbuilt v0.1
